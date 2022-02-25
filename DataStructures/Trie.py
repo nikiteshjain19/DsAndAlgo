@@ -58,7 +58,6 @@ class Trie:
         return True
 
 
-
 if __name__ == '__main__':
     trie = Trie()
     print("********** Search **********")
